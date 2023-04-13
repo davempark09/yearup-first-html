@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+}
+nav {
+    background-color: blue;
+}
+.topNav {
+    list-style-type: none;
+    
+}
+.topNav li {
+    display: inline;
+    margin: 15px;
+}
+ul {
+    width: 100%;
+}
